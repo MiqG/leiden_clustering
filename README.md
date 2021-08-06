@@ -1,5 +1,5 @@
 # `leiden_clustering`
-[![pipy](https://img.shields.io/pypi/v/leiden_clustering?color=informational)](https://pypi.python.org/pypi/leiden_clustering)
+[![pipy](https://img.shields.io/pypi/v/leiden_clustering)](https://pypi.python.org/pypi/leiden_clustering)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Description

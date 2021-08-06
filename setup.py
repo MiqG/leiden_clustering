@@ -21,5 +21,5 @@ setup(
         "License :: OSI Approved :: BSD License",
         "Topic :: System :: Clustering",
     ],
-    license="BSD 3-Clause License",
+    license="BSD 3-Clause License"
 )
